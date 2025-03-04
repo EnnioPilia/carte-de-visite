@@ -1,0 +1,15 @@
+
+{
+    "weather": [{
+        "description": "pluie légère",  
+        "icon": "10d"  
+    }],
+
+    "main": {
+        "temperature": 24.5,  
+        "humidity": 50, 
+        "wind.speed": 10
+    },
+
+    "name": "grenoble" 
+}
