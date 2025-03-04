@@ -18,6 +18,6 @@ let url = `https://api.openweathermap.org/data/2.5/weather?q=grenoble&appid=${AP
     ).catch(err => console.log('erreur :' + err ));       
 
     
-   /* setInterval(() => {
+   setInterval(() => {
         fetch(url);
-    }, 3600000); */
+    }, 3600000); 
