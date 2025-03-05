@@ -115,8 +115,6 @@ h2:hover {
 }
 
 .logo img {
-    display: flex;
-    justify-content: center;
     height: 90px;
     border-radius: 50%;
     object-fit: cover;
