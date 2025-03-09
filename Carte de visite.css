@@ -33,7 +33,6 @@ h1 {
     font-size: 100px;
     height: 10px;
     padding-top: 40px;
-    position: relative;
 }
 
 h2 {
@@ -43,8 +42,6 @@ h2 {
     color: white;
     font-size: 50px;
     font-style: italic;
-    position: relative;
-
 }
 
 h2:hover {
