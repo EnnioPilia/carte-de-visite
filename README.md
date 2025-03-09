@@ -78,8 +78,7 @@ intégrés aux écrans d’information dans les stations et dans les transports.
 Les écrans doivent être programmés avec les technologies web, embarquées dans la webview
 du système des écrans de la compagnie de transports en commun de la ville.
 Exemples d’interfaces météo :
-- https://github.com/PritamSarbajna/simple-weather-website
-- https://github.com/abdellatif-laghjaj/weather-web-app
+
 L’interface ne doit pas inclure de moteur de recherche pour la localisation de l’information
 météo.
 Mais, elle doit inclure un fichier de configuration (JSON par exemple) dans lequel l’information
