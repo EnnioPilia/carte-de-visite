@@ -134,7 +134,6 @@ h2:hover {
 .Nom {
     opacity: 0;
     animation: fadeIn 3s forwards;
-    animation-delay: none; 
 }
 
 .photo {
