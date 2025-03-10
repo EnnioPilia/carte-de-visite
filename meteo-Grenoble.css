@@ -21,11 +21,11 @@ body {
 }
 
 .container {
-    height: 555px;
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 555px;
+    width: 100%;
 }
 
 .box-container {
@@ -38,22 +38,23 @@ body {
 }
 
 .box {
-    font-family: "Raleway", serif;
-    height: 250px;
-    width: 250px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: 250px;
+    width: 250px;    
+    border-radius: 50%;
+    font-family: "Raleway", serif;
     color: white;
     font-size: 38px;
-    border-radius: 50%;
     border: 1px solid black;
+    box-shadow: 0 0 8px 2px white;
     text-shadow: 
     -0.7px -0.7px 0 black,  
      0.7px -0.7px 0 black,  
     -0.7px  0.7px 0 black,  
-     0.7px  0.7px 0 black;
+     0.7px  0.7px 0 black;    
 }
 
 .logo {
